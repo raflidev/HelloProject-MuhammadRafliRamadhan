@@ -1,0 +1,1 @@
+print("Hello, I'm Muhammad Rafli Ramadhan, my NIM 1301200204 and my class is IF4404 :) ")
